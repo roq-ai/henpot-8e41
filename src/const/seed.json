@@ -1,0 +1,2572 @@
+[
+  {
+    "event": [
+      {
+        "id": "83c52057-8b67-4de5-905f-0abd6ac9ee36",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-06T03:45:54.051Z",
+        "location": "New York City",
+        "description": "Join us for an evening of fundraising and entertainment",
+        "created_at": "2023-09-05T16:29:27.282Z",
+        "updated_at": "2023-09-05T18:18:12.788Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "11247f1a-282f-4898-9f1d-c999cfb67596",
+        "name": "Tech Conference 2022",
+        "date": "2023-09-06T11:17:28.881Z",
+        "location": "San Francisco",
+        "description": "Explore the latest advancements in technology and AI",
+        "created_at": "2023-09-06T09:09:04.550Z",
+        "updated_at": "2023-09-06T01:09:01.092Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "845171f8-0819-4265-856c-b0d1c2df39c4",
+        "name": "Environmental Awareness Workshop",
+        "date": "2023-09-05T16:19:32.274Z",
+        "location": "London",
+        "description": "Learn about sustainable practices and environmental conservation",
+        "created_at": "2023-09-06T03:26:22.763Z",
+        "updated_at": "2023-09-05T23:43:07.080Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "bcaca495-a0dd-4213-b417-8ecf903d3d03",
+        "name": "Healthcare Innovation Summit",
+        "date": "2023-09-06T09:40:57.100Z",
+        "location": "Tokyo",
+        "description": "Discover cutting-edge healthcare solutions and trends",
+        "created_at": "2023-09-05T20:06:38.427Z",
+        "updated_at": "2023-09-06T03:23:40.833Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "0ad3f30a-8056-4ee6-9089-a021f4522d65",
+        "name": "Design Thinking Masterclass",
+        "date": "2023-09-06T02:29:45.000Z",
+        "location": "Sydney",
+        "description": "Unlock your creativity and learn design thinking principles",
+        "created_at": "2023-09-05T15:01:45.669Z",
+        "updated_at": "2023-09-06T00:12:03.661Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "3770dc21-541c-4547-8f26-9a0ca5df469c",
+        "usage_date": "2023-09-06T09:58:30.976Z",
+        "usage_time": "2023-09-06T06:05:55.482Z",
+        "usage_duration": 26321,
+        "created_at": "2023-09-06T04:06:07.967Z",
+        "updated_at": "2023-09-06T11:01:49.057Z",
+        "event_id": "11247f1a-282f-4898-9f1d-c999cfb67596",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3df69a89-700d-467b-be0c-d94e62614d6c",
+        "usage_date": "2023-09-05T19:15:12.764Z",
+        "usage_time": "2023-09-06T05:13:27.513Z",
+        "usage_duration": 82755,
+        "created_at": "2023-09-06T10:42:43.816Z",
+        "updated_at": "2023-09-06T11:52:53.443Z",
+        "event_id": "845171f8-0819-4265-856c-b0d1c2df39c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1dfaf30-838e-463e-b84c-774af2645da6",
+        "usage_date": "2023-09-05T19:24:02.104Z",
+        "usage_time": "2023-09-06T02:03:21.583Z",
+        "usage_duration": 23870,
+        "created_at": "2023-09-05T22:52:20.758Z",
+        "updated_at": "2023-09-05T16:28:38.803Z",
+        "event_id": "0ad3f30a-8056-4ee6-9089-a021f4522d65",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d920c8ba-2671-4e8a-ae7e-c2011422cf7f",
+        "usage_date": "2023-09-05T19:00:25.591Z",
+        "usage_time": "2023-09-06T02:07:42.277Z",
+        "usage_duration": 6210,
+        "created_at": "2023-09-06T09:48:39.731Z",
+        "updated_at": "2023-09-05T23:48:08.762Z",
+        "event_id": "bcaca495-a0dd-4213-b417-8ecf903d3d03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "acbc8606-6d20-412a-a43d-5f9499e98dee",
+        "usage_date": "2023-09-06T10:15:47.928Z",
+        "usage_time": "2023-09-06T00:14:01.900Z",
+        "usage_duration": 39739,
+        "created_at": "2023-09-06T01:10:53.520Z",
+        "updated_at": "2023-09-06T07:53:51.963Z",
+        "event_id": "11247f1a-282f-4898-9f1d-c999cfb67596",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "29afd38b-947b-44cc-aa59-23ec9f2840df",
+        "reservation_date": "2023-09-05T15:21:43.280Z",
+        "status": "Confirmed",
+        "number_of_guests": 8790,
+        "created_at": "2023-09-05T19:19:40.534Z",
+        "updated_at": "2023-09-06T10:43:51.635Z",
+        "event_id": "83c52057-8b67-4de5-905f-0abd6ac9ee36",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a7ed08f-eaae-49f4-810e-13c3a6b92550",
+        "reservation_date": "2023-09-06T12:18:21.328Z",
+        "status": "Pending",
+        "number_of_guests": 79963,
+        "created_at": "2023-09-05T16:15:02.415Z",
+        "updated_at": "2023-09-06T06:43:57.575Z",
+        "event_id": "11247f1a-282f-4898-9f1d-c999cfb67596",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6eb8a82d-e3d4-464c-b675-7648e7581046",
+        "reservation_date": "2023-09-06T11:31:20.915Z",
+        "status": "Cancelled",
+        "number_of_guests": 86304,
+        "created_at": "2023-09-06T06:49:05.434Z",
+        "updated_at": "2023-09-05T15:37:45.672Z",
+        "event_id": "0ad3f30a-8056-4ee6-9089-a021f4522d65",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "05f8a69a-2e4d-49a2-b488-dfe36ac58455",
+        "reservation_date": "2023-09-06T01:04:03.085Z",
+        "status": "On Hold",
+        "number_of_guests": 48248,
+        "created_at": "2023-09-05T15:35:00.835Z",
+        "updated_at": "2023-09-06T00:12:10.849Z",
+        "event_id": "bcaca495-a0dd-4213-b417-8ecf903d3d03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70d1f566-6d9e-4380-b462-1ca61b321770",
+        "reservation_date": "2023-09-06T08:10:44.420Z",
+        "status": "Completed",
+        "number_of_guests": 83288,
+        "created_at": "2023-09-05T19:43:56.615Z",
+        "updated_at": "2023-09-06T07:15:51.652Z",
+        "event_id": "bcaca495-a0dd-4213-b417-8ecf903d3d03",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "4a3b8dbb-965f-496b-aace-fbc053935731",
+        "assessment_date": "2023-09-05T17:46:04.348Z",
+        "rating": 64230,
+        "comment": "Excellent work! Very thorough and detailed",
+        "created_at": "2023-09-06T03:42:06.483Z",
+        "updated_at": "2023-09-05T17:13:27.225Z",
+        "event_id": "0ad3f30a-8056-4ee6-9089-a021f4522d65",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "45b9b806-ae9f-4c36-9cbd-bceff3417031",
+        "assessment_date": "2023-09-05T21:10:19.461Z",
+        "rating": 94170,
+        "comment": "Great effort. Keep up the good work",
+        "created_at": "2023-09-05T20:43:13.211Z",
+        "updated_at": "2023-09-05T15:44:36.154Z",
+        "event_id": "0ad3f30a-8056-4ee6-9089-a021f4522d65",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "eb6c2817-b60a-4e7a-815b-c263ed31b024",
+        "assessment_date": "2023-09-06T05:23:56.864Z",
+        "rating": 61417,
+        "comment": "Some areas for improvement. Let's discuss in our next meeting",
+        "created_at": "2023-09-06T07:03:19.276Z",
+        "updated_at": "2023-09-05T21:07:49.017Z",
+        "event_id": "845171f8-0819-4265-856c-b0d1c2df39c4",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "3917e4d0-9b0c-4bad-8bed-c459c4b2bcfa",
+        "assessment_date": "2023-09-05T20:02:02.756Z",
+        "rating": 22370,
+        "comment": "Impressive results. Well done!",
+        "created_at": "2023-09-05T14:28:14.284Z",
+        "updated_at": "2023-09-05T19:30:40.405Z",
+        "event_id": "11247f1a-282f-4898-9f1d-c999cfb67596",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "9c05552f-3521-41f7-99c4-bc2dcb7b554b",
+        "assessment_date": "2023-09-05T20:46:04.780Z",
+        "rating": 47257,
+        "comment": "Your dedication and commitment are commendable",
+        "created_at": "2023-09-06T09:51:14.512Z",
+        "updated_at": "2023-09-05T16:02:50.988Z",
+        "event_id": "0ad3f30a-8056-4ee6-9089-a021f4522d65",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9e4e7ae1-511f-4a25-8e08-36741f63c8dd",
+        "email": "Ivah7@gmail.com",
+        "firstName": "Braden",
+        "lastName": "Roob",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/962.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4c1ddc73-95b6-4538-bf80-b6044bda45de",
+        "email": "Hilario.Kling@hotmail.com",
+        "firstName": "Margarita",
+        "lastName": "Kozey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65556590",
+        "tenantId": null
+      },
+      {
+        "reference": "02873292-16fd-4116-9d0e-181c0e1a991f",
+        "email": "Ellen_Schaefer@yahoo.com",
+        "firstName": "Christopher",
+        "lastName": "Roberts",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/547.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b7932658-1adf-4527-8cbe-7923b3ef0900",
+        "email": "Ellsworth59@gmail.com",
+        "firstName": "Alfred",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29797191",
+        "tenantId": null
+      },
+      {
+        "reference": "f8b95ba3-392a-4b1b-851a-bce9b4f23b52",
+        "email": "Braxton1@yahoo.com",
+        "firstName": "Macie",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/354.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "0de93a90-c81f-430a-97ed-d4036ec24cbd",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-05T22:59:21.725Z",
+        "location": "New York City",
+        "description": "Join us for an unforgettable evening of music, dance, and fundraising",
+        "created_at": "2023-09-05T16:16:42.496Z",
+        "updated_at": "2023-09-05T12:28:07.354Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "736d2537-8a03-46cb-bd8e-a85ae79d73a6",
+        "name": "Tech Conference 2022",
+        "date": "2023-09-06T07:02:35.859Z",
+        "location": "San Francisco",
+        "description": "Explore the latest advancements in technology and AI",
+        "created_at": "2023-09-05T12:26:03.639Z",
+        "updated_at": "2023-09-06T05:44:42.745Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "f4adadcf-dd76-4b5d-97ac-51cb76883d2d",
+        "name": "Business Strategy Summit",
+        "date": "2023-09-06T11:23:27.260Z",
+        "location": "London",
+        "description": "Learn from industry experts about successful business strategies",
+        "created_at": "2023-09-05T22:49:57.183Z",
+        "updated_at": "2023-09-06T10:29:51.314Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "53585400-c266-4ef4-8b8a-c87cfc440ed5",
+        "name": "Medical Symposium",
+        "date": "2023-09-06T00:46:14.201Z",
+        "location": "Tokyo",
+        "description": "Discuss the latest medical research and breakthroughs",
+        "created_at": "2023-09-05T21:46:34.476Z",
+        "updated_at": "2023-09-06T03:10:31.217Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "bf739ca6-1f91-4109-afd1-8abd2689c728",
+        "name": "Fashion Show Extravaganza",
+        "date": "2023-09-06T05:44:25.928Z",
+        "location": "Sydney",
+        "description": "Experience the latest trends in sustainable fashion",
+        "created_at": "2023-09-06T08:32:08.894Z",
+        "updated_at": "2023-09-06T03:13:56.442Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "69649990-1ec7-4a0b-9765-f8ac867d5116",
+        "usage_date": "2023-09-06T11:06:07.797Z",
+        "usage_time": "2023-09-05T20:59:10.176Z",
+        "usage_duration": 49425,
+        "created_at": "2023-09-06T08:30:24.793Z",
+        "updated_at": "2023-09-05T17:18:50.340Z",
+        "event_id": "0de93a90-c81f-430a-97ed-d4036ec24cbd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a12f02ba-aa64-4270-b7e6-24621db0ba78",
+        "usage_date": "2023-09-06T06:24:49.107Z",
+        "usage_time": "2023-09-05T23:40:55.517Z",
+        "usage_duration": 39721,
+        "created_at": "2023-09-06T06:17:13.442Z",
+        "updated_at": "2023-09-05T18:33:53.683Z",
+        "event_id": "bf739ca6-1f91-4109-afd1-8abd2689c728",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67b59883-a01f-4b98-a498-78f5142e6994",
+        "usage_date": "2023-09-05T17:11:04.649Z",
+        "usage_time": "2023-09-06T03:10:21.311Z",
+        "usage_duration": 63694,
+        "created_at": "2023-09-06T10:34:19.014Z",
+        "updated_at": "2023-09-06T05:42:07.450Z",
+        "event_id": "f4adadcf-dd76-4b5d-97ac-51cb76883d2d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12d9e754-b2ef-462d-a4ae-82a7fda77a2e",
+        "usage_date": "2023-09-06T04:08:11.649Z",
+        "usage_time": "2023-09-06T09:22:09.253Z",
+        "usage_duration": 54394,
+        "created_at": "2023-09-05T23:45:10.420Z",
+        "updated_at": "2023-09-06T01:09:23.271Z",
+        "event_id": "bf739ca6-1f91-4109-afd1-8abd2689c728",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "46ba82d0-7146-48a5-b9af-8a2fa71395ec",
+        "usage_date": "2023-09-05T20:46:18.139Z",
+        "usage_time": "2023-09-06T05:36:41.599Z",
+        "usage_duration": 42123,
+        "created_at": "2023-09-06T00:55:33.797Z",
+        "updated_at": "2023-09-05T17:50:05.318Z",
+        "event_id": "736d2537-8a03-46cb-bd8e-a85ae79d73a6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "83b0c465-5a35-464d-85fe-45207ca8ddc8",
+        "reservation_date": "2023-09-06T06:36:31.024Z",
+        "status": "Confirmed",
+        "number_of_guests": 69789,
+        "created_at": "2023-09-05T21:58:49.702Z",
+        "updated_at": "2023-09-05T15:29:29.081Z",
+        "event_id": "53585400-c266-4ef4-8b8a-c87cfc440ed5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5930a405-f8f8-4f35-a0a1-eb28a6819ce0",
+        "reservation_date": "2023-09-05T12:36:32.889Z",
+        "status": "Pending",
+        "number_of_guests": 98225,
+        "created_at": "2023-09-05T23:41:16.314Z",
+        "updated_at": "2023-09-05T14:06:03.748Z",
+        "event_id": "53585400-c266-4ef4-8b8a-c87cfc440ed5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c0e7fef-8c1c-494f-ba72-c59576a5707d",
+        "reservation_date": "2023-09-05T14:07:35.948Z",
+        "status": "Cancelled",
+        "number_of_guests": 65182,
+        "created_at": "2023-09-06T01:23:04.322Z",
+        "updated_at": "2023-09-06T10:17:40.324Z",
+        "event_id": "f4adadcf-dd76-4b5d-97ac-51cb76883d2d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ffff542d-ac44-4c5b-987d-698b21706176",
+        "reservation_date": "2023-09-05T12:28:54.672Z",
+        "status": "Completed",
+        "number_of_guests": 19424,
+        "created_at": "2023-09-06T05:53:05.943Z",
+        "updated_at": "2023-09-06T05:30:43.242Z",
+        "event_id": "736d2537-8a03-46cb-bd8e-a85ae79d73a6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "504715f5-1e83-4f11-92a5-978bf9cc7eb6",
+        "reservation_date": "2023-09-06T02:15:30.723Z",
+        "status": "On Hold",
+        "number_of_guests": 60356,
+        "created_at": "2023-09-05T21:01:42.459Z",
+        "updated_at": "2023-09-06T01:47:03.642Z",
+        "event_id": "0de93a90-c81f-430a-97ed-d4036ec24cbd",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "61212dd5-9bac-43b4-b336-612c760c1a64",
+        "assessment_date": "2023-09-05T20:37:07.943Z",
+        "rating": 74931,
+        "comment": "Excellent work! Keep it up.",
+        "created_at": "2023-09-05T18:36:19.679Z",
+        "updated_at": "2023-09-06T03:20:08.826Z",
+        "event_id": "736d2537-8a03-46cb-bd8e-a85ae79d73a6",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "f2469fdc-3db2-4a65-931d-ed08776426c1",
+        "assessment_date": "2023-09-05T13:46:53.923Z",
+        "rating": 50465,
+        "comment": "Great effort and improvement.",
+        "created_at": "2023-09-05T18:14:54.558Z",
+        "updated_at": "2023-09-06T00:00:49.000Z",
+        "event_id": "bf739ca6-1f91-4109-afd1-8abd2689c728",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "287ab12e-318b-4971-b269-250905da5116",
+        "assessment_date": "2023-09-05T17:08:51.359Z",
+        "rating": 32020,
+        "comment": "Some areas for improvement, but overall good performance.",
+        "created_at": "2023-09-06T09:34:27.119Z",
+        "updated_at": "2023-09-05T23:35:06.182Z",
+        "event_id": "bf739ca6-1f91-4109-afd1-8abd2689c728",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "b6521320-068c-4def-8265-a8a8f0770660",
+        "assessment_date": "2023-09-05T13:32:03.166Z",
+        "rating": 59341,
+        "comment": "Needs more attention to detail.",
+        "created_at": "2023-09-05T19:17:30.965Z",
+        "updated_at": "2023-09-06T07:50:01.833Z",
+        "event_id": "0de93a90-c81f-430a-97ed-d4036ec24cbd",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "7e446745-6e30-4fed-ad86-1b4fd2e262f3",
+        "assessment_date": "2023-09-05T15:25:49.891Z",
+        "rating": 24601,
+        "comment": "Struggling with meeting expectations.",
+        "created_at": "2023-09-05T15:48:38.593Z",
+        "updated_at": "2023-09-05T16:51:50.866Z",
+        "event_id": "0de93a90-c81f-430a-97ed-d4036ec24cbd",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e569b975-8a69-4b56-9f30-b1f1a01bf69b",
+        "email": "Karlee66@yahoo.com",
+        "firstName": "Austyn",
+        "lastName": "Haag",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/223.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0271d477-9de2-4a76-affb-6399fe45c2c9",
+        "email": "Annabell44@yahoo.com",
+        "firstName": "D'angelo",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63963104",
+        "tenantId": null
+      },
+      {
+        "reference": "04bfc6fe-97a4-4973-b307-801ce4e4c49f",
+        "email": "Dewayne.Rutherford83@yahoo.com",
+        "firstName": "Nathanial",
+        "lastName": "Sawayn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18527490",
+        "tenantId": null
+      },
+      {
+        "reference": "a5cd33d7-4412-4121-8ee7-3347182bb00e",
+        "email": "Precious96@hotmail.com",
+        "firstName": "Kenny",
+        "lastName": "Hyatt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/314.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "59495fd9-af3a-48af-a081-2c8bb01c80e1",
+        "email": "Cordie_Barrows@yahoo.com",
+        "firstName": "Antonetta",
+        "lastName": "Collier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/731.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "2476097d-9e20-4acc-ae8d-fab00483ecc7",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-05T23:06:53.412Z",
+        "location": "Grand Hotel Ballroom",
+        "description": "Join us for an evening of philanthropy and entertainment",
+        "created_at": "2023-09-05T18:11:39.229Z",
+        "updated_at": "2023-09-06T07:21:47.061Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "3f949ff1-bcd8-429c-b8ce-da82a11efe4d",
+        "name": "Tech Conference 2022",
+        "date": "2023-09-06T05:52:04.537Z",
+        "location": "Convention Center",
+        "description": "Explore the latest advancements in technology",
+        "created_at": "2023-09-05T18:31:53.807Z",
+        "updated_at": "2023-09-05T16:29:44.896Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "eeec5e7d-5a97-4b8b-a605-d6b87444d585",
+        "name": "Business Summit",
+        "date": "2023-09-05T17:04:44.542Z",
+        "location": "Conference Hall",
+        "description": "Connect with industry leaders and experts",
+        "created_at": "2023-09-06T08:22:44.125Z",
+        "updated_at": "2023-09-06T08:02:13.219Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "bb2fda35-f65b-4fe5-b05e-47dc87d74652",
+        "name": "Fashion Show Extravaganza",
+        "date": "2023-09-06T06:40:31.687Z",
+        "location": "Fashion Week Venue",
+        "description": "Experience the latest fashion trends on the runway",
+        "created_at": "2023-09-05T20:51:18.723Z",
+        "updated_at": "2023-09-06T08:51:29.967Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "bcd105a6-6f01-4cbb-a6a1-38c4b4cdd954",
+        "name": "Medical Symposium",
+        "date": "2023-09-05T18:32:29.589Z",
+        "location": "Medical Center Auditorium",
+        "description": "Learn from renowned medical professionals",
+        "created_at": "2023-09-05T20:21:20.407Z",
+        "updated_at": "2023-09-06T07:26:25.447Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "0030955e-47ba-422b-a9a3-f94384822918",
+        "usage_date": "2023-09-05T14:34:46.346Z",
+        "usage_time": "2023-09-06T06:18:35.830Z",
+        "usage_duration": 63804,
+        "created_at": "2023-09-06T00:37:10.194Z",
+        "updated_at": "2023-09-06T01:14:42.102Z",
+        "event_id": "eeec5e7d-5a97-4b8b-a605-d6b87444d585",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15a3fbd0-7155-497c-909d-7bcf07dcbfe7",
+        "usage_date": "2023-09-06T01:34:13.492Z",
+        "usage_time": "2023-09-05T17:19:01.877Z",
+        "usage_duration": 31615,
+        "created_at": "2023-09-06T10:39:23.452Z",
+        "updated_at": "2023-09-06T00:04:59.266Z",
+        "event_id": "bcd105a6-6f01-4cbb-a6a1-38c4b4cdd954",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12ee510b-c225-472c-b0ce-aba6725b6a1c",
+        "usage_date": "2023-09-05T15:36:37.648Z",
+        "usage_time": "2023-09-06T04:14:58.571Z",
+        "usage_duration": 21197,
+        "created_at": "2023-09-05T15:34:28.628Z",
+        "updated_at": "2023-09-06T10:16:16.726Z",
+        "event_id": "bcd105a6-6f01-4cbb-a6a1-38c4b4cdd954",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fbca4e90-7ec2-480f-bac5-1044ee6499c6",
+        "usage_date": "2023-09-06T10:44:53.335Z",
+        "usage_time": "2023-09-06T04:04:22.038Z",
+        "usage_duration": 34134,
+        "created_at": "2023-09-06T09:42:53.150Z",
+        "updated_at": "2023-09-05T16:27:25.166Z",
+        "event_id": "bcd105a6-6f01-4cbb-a6a1-38c4b4cdd954",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cea5df8b-05b6-4e2c-ae63-df57446e40de",
+        "usage_date": "2023-09-06T09:44:14.991Z",
+        "usage_time": "2023-09-06T02:30:24.108Z",
+        "usage_duration": 16084,
+        "created_at": "2023-09-05T17:18:47.478Z",
+        "updated_at": "2023-09-05T16:26:33.837Z",
+        "event_id": "bcd105a6-6f01-4cbb-a6a1-38c4b4cdd954",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "3db44874-ae3c-459f-bf4b-47ef66704a86",
+        "reservation_date": "2023-09-06T01:30:20.810Z",
+        "status": "Confirmed",
+        "number_of_guests": 74759,
+        "created_at": "2023-09-05T14:07:08.205Z",
+        "updated_at": "2023-09-05T13:37:08.773Z",
+        "event_id": "bcd105a6-6f01-4cbb-a6a1-38c4b4cdd954",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb00fc15-ec12-421a-a6d8-29fbdbe27be6",
+        "reservation_date": "2023-09-05T20:13:40.706Z",
+        "status": "Pending",
+        "number_of_guests": 35980,
+        "created_at": "2023-09-06T01:53:55.181Z",
+        "updated_at": "2023-09-06T07:58:51.535Z",
+        "event_id": "bb2fda35-f65b-4fe5-b05e-47dc87d74652",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9e3237a-27f8-498e-8898-65b86d1b03d6",
+        "reservation_date": "2023-09-05T23:59:40.165Z",
+        "status": "Cancelled",
+        "number_of_guests": 38252,
+        "created_at": "2023-09-05T18:52:58.546Z",
+        "updated_at": "2023-09-06T04:12:11.525Z",
+        "event_id": "eeec5e7d-5a97-4b8b-a605-d6b87444d585",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cec25d46-2a21-4dde-bf9b-c2bb0bd2c9a8",
+        "reservation_date": "2023-09-05T18:32:45.226Z",
+        "status": "On Hold",
+        "number_of_guests": 97381,
+        "created_at": "2023-09-06T10:58:07.075Z",
+        "updated_at": "2023-09-06T06:12:57.099Z",
+        "event_id": "3f949ff1-bcd8-429c-b8ce-da82a11efe4d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9323f96c-fe88-4fc7-b45d-5332be690cf7",
+        "reservation_date": "2023-09-06T07:48:01.494Z",
+        "status": "Completed",
+        "number_of_guests": 5996,
+        "created_at": "2023-09-05T22:13:48.740Z",
+        "updated_at": "2023-09-06T01:35:16.990Z",
+        "event_id": "eeec5e7d-5a97-4b8b-a605-d6b87444d585",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "977449ea-4992-49cf-8ce2-30088d3a2494",
+        "assessment_date": "2023-09-05T17:23:37.241Z",
+        "rating": 66692,
+        "comment": "Excellent performance. Keep up the good work!",
+        "created_at": "2023-09-05T19:59:12.990Z",
+        "updated_at": "2023-09-06T06:44:40.069Z",
+        "event_id": "bcd105a6-6f01-4cbb-a6a1-38c4b4cdd954",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "909a5c42-33ee-4b69-bc20-4fd6cc636029",
+        "assessment_date": "2023-09-06T06:04:27.508Z",
+        "rating": 258,
+        "comment": "Impressive skills demonstrated during the assessment",
+        "created_at": "2023-09-06T00:08:29.666Z",
+        "updated_at": "2023-09-05T17:03:27.038Z",
+        "event_id": "eeec5e7d-5a97-4b8b-a605-d6b87444d585",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "abdf0e4d-abb4-414e-a989-4f8cfd8c4866",
+        "assessment_date": "2023-09-06T07:48:42.402Z",
+        "rating": 96718,
+        "comment": "Areas for improvement: time management and attention to detail",
+        "created_at": "2023-09-05T15:43:04.092Z",
+        "updated_at": "2023-09-05T22:49:05.335Z",
+        "event_id": "3f949ff1-bcd8-429c-b8ce-da82a11efe4d",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "d4791eea-f329-4ce9-b0a4-cb0a7986d24c",
+        "assessment_date": "2023-09-06T06:50:27.281Z",
+        "rating": 3379,
+        "comment": "Well-prepared and thorough assessment",
+        "created_at": "2023-09-06T04:23:01.174Z",
+        "updated_at": "2023-09-05T19:22:46.032Z",
+        "event_id": "3f949ff1-bcd8-429c-b8ce-da82a11efe4d",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "22283f90-4667-4a2f-980d-8f3796b3c7f7",
+        "assessment_date": "2023-09-06T01:55:32.732Z",
+        "rating": 9015,
+        "comment": "Overall, a commendable performance",
+        "created_at": "2023-09-06T04:12:52.697Z",
+        "updated_at": "2023-09-05T22:42:44.039Z",
+        "event_id": "bb2fda35-f65b-4fe5-b05e-47dc87d74652",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "380ce43a-02ae-41d0-9f42-c09120a67cb3",
+        "email": "Aurelia.Welch@hotmail.com",
+        "firstName": "Breanna",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60407101",
+        "tenantId": null
+      },
+      {
+        "reference": "d73fda00-230f-442b-b374-74db686721b0",
+        "email": "Lulu_Lemke@hotmail.com",
+        "firstName": "Shawna",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/116.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "efb3eccc-0f00-40ce-a58d-6a0777ad4148",
+        "email": "Katelyn.Schuppe@yahoo.com",
+        "firstName": "Cale",
+        "lastName": "Gerhold",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97213686",
+        "tenantId": null
+      },
+      {
+        "reference": "59be9e50-4279-472c-8070-1ca5135b0caf",
+        "email": "Sigrid.Cronin52@hotmail.com",
+        "firstName": "Kip",
+        "lastName": "O'Keefe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90083914",
+        "tenantId": null
+      },
+      {
+        "reference": "31dbabff-a49e-44c0-83ac-0b8adfee20ff",
+        "email": "Nina73@yahoo.com",
+        "firstName": "Carolina",
+        "lastName": "Senger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47138826",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "4248bc3c-5a48-46b8-8c29-087fe83d22fc",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-05T14:31:24.544Z",
+        "location": "New York City",
+        "description": "Join us for an evening of music, dance, and fundraising for a good cause",
+        "created_at": "2023-09-06T09:31:27.058Z",
+        "updated_at": "2023-09-05T18:04:23.139Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "8a4f6461-bc47-4b0a-8042-bb879c7d5e50",
+        "name": "Tech Conference 2022",
+        "date": "2023-09-06T02:42:57.815Z",
+        "location": "San Francisco",
+        "description": "Discover the latest trends and innovations in technology",
+        "created_at": "2023-09-06T12:15:23.958Z",
+        "updated_at": "2023-09-06T08:17:12.853Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "c8a32432-ed89-4cc8-a178-ebcdcd64a15a",
+        "name": "Business Summit",
+        "date": "2023-09-06T10:01:43.416Z",
+        "location": "London",
+        "description": "Connect with industry leaders and explore new business opportunities",
+        "created_at": "2023-09-05T23:49:21.454Z",
+        "updated_at": "2023-09-05T16:51:33.284Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "41f53eeb-8e58-4155-8f45-67e103c44807",
+        "name": "Fashion Show Extravaganza",
+        "date": "2023-09-06T02:51:20.526Z",
+        "location": "Paris",
+        "description": "Experience a showcase of sustainable fashion designs",
+        "created_at": "2023-09-05T13:55:08.473Z",
+        "updated_at": "2023-09-05T16:35:35.150Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "25545820-bb89-47da-ba9e-959386092b63",
+        "name": "Medical Symposium",
+        "date": "2023-09-05T17:47:45.406Z",
+        "location": "Tokyo",
+        "description": "Learn from renowned medical experts and exchange knowledge",
+        "created_at": "2023-09-05T20:24:27.409Z",
+        "updated_at": "2023-09-05T21:52:35.364Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "a9f95cdd-7010-43cf-bcd6-245299fc3276",
+        "usage_date": "2023-09-06T10:57:19.792Z",
+        "usage_time": "2023-09-06T03:28:44.590Z",
+        "usage_duration": 11799,
+        "created_at": "2023-09-05T13:12:40.093Z",
+        "updated_at": "2023-09-05T19:07:27.872Z",
+        "event_id": "8a4f6461-bc47-4b0a-8042-bb879c7d5e50",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "57cbe630-de90-4a91-994b-04d4e16ff756",
+        "usage_date": "2023-09-06T09:01:02.062Z",
+        "usage_time": "2023-09-06T06:04:12.427Z",
+        "usage_duration": 68516,
+        "created_at": "2023-09-05T16:40:48.756Z",
+        "updated_at": "2023-09-06T00:35:28.668Z",
+        "event_id": "4248bc3c-5a48-46b8-8c29-087fe83d22fc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d98e2bff-8e43-4b90-9b7c-e66fe6c6227c",
+        "usage_date": "2023-09-06T10:34:05.120Z",
+        "usage_time": "2023-09-06T09:27:06.468Z",
+        "usage_duration": 44370,
+        "created_at": "2023-09-05T21:32:07.018Z",
+        "updated_at": "2023-09-05T22:36:44.064Z",
+        "event_id": "41f53eeb-8e58-4155-8f45-67e103c44807",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e78476da-cf5a-4c1d-97f5-4747f9976cb8",
+        "usage_date": "2023-09-06T00:01:51.612Z",
+        "usage_time": "2023-09-05T20:32:53.117Z",
+        "usage_duration": 43823,
+        "created_at": "2023-09-06T05:20:52.832Z",
+        "updated_at": "2023-09-06T07:43:49.130Z",
+        "event_id": "25545820-bb89-47da-ba9e-959386092b63",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2fa546e-cd66-4858-bf4a-ec1c46eef20f",
+        "usage_date": "2023-09-05T16:30:07.576Z",
+        "usage_time": "2023-09-06T10:24:07.082Z",
+        "usage_duration": 90317,
+        "created_at": "2023-09-05T13:16:14.926Z",
+        "updated_at": "2023-09-06T08:14:12.012Z",
+        "event_id": "c8a32432-ed89-4cc8-a178-ebcdcd64a15a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "327f9689-647e-4595-9951-d7db004a7fa7",
+        "reservation_date": "2023-09-06T05:19:02.522Z",
+        "status": "Confirmed",
+        "number_of_guests": 91945,
+        "created_at": "2023-09-06T03:52:25.506Z",
+        "updated_at": "2023-09-05T19:11:42.249Z",
+        "event_id": "c8a32432-ed89-4cc8-a178-ebcdcd64a15a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c011fb14-2ba3-423c-bc85-88685fd03eff",
+        "reservation_date": "2023-09-05T13:57:15.040Z",
+        "status": "Pending",
+        "number_of_guests": 69858,
+        "created_at": "2023-09-06T09:39:21.445Z",
+        "updated_at": "2023-09-05T14:41:57.054Z",
+        "event_id": "41f53eeb-8e58-4155-8f45-67e103c44807",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eef64dcc-6e5a-4ae7-81cc-94a928c3824a",
+        "reservation_date": "2023-09-06T10:25:22.230Z",
+        "status": "Cancelled",
+        "number_of_guests": 62082,
+        "created_at": "2023-09-06T00:02:19.735Z",
+        "updated_at": "2023-09-05T12:43:59.127Z",
+        "event_id": "8a4f6461-bc47-4b0a-8042-bb879c7d5e50",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4564a40a-454a-4f14-886e-607ca4836fca",
+        "reservation_date": "2023-09-06T00:58:43.141Z",
+        "status": "On Hold",
+        "number_of_guests": 52839,
+        "created_at": "2023-09-06T05:06:30.924Z",
+        "updated_at": "2023-09-06T02:56:09.204Z",
+        "event_id": "8a4f6461-bc47-4b0a-8042-bb879c7d5e50",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68044023-f82b-4ed5-9dc8-9af8798a4294",
+        "reservation_date": "2023-09-05T12:50:32.943Z",
+        "status": "Completed",
+        "number_of_guests": 46594,
+        "created_at": "2023-09-05T23:02:27.500Z",
+        "updated_at": "2023-09-05T21:20:29.140Z",
+        "event_id": "8a4f6461-bc47-4b0a-8042-bb879c7d5e50",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "f709b1a6-d0ef-4d89-afbd-cbf6f3815f07",
+        "assessment_date": "2023-09-05T18:40:34.137Z",
+        "rating": 19899,
+        "comment": "Excellent work! Keep it up",
+        "created_at": "2023-09-06T03:39:24.527Z",
+        "updated_at": "2023-09-05T20:55:19.769Z",
+        "event_id": "41f53eeb-8e58-4155-8f45-67e103c44807",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "b9b11f4c-e629-43a3-9c09-eb1054098f55",
+        "assessment_date": "2023-09-05T20:31:29.276Z",
+        "rating": 64697,
+        "comment": "Great effort and improvement",
+        "created_at": "2023-09-05T19:17:40.158Z",
+        "updated_at": "2023-09-06T06:34:02.752Z",
+        "event_id": "c8a32432-ed89-4cc8-a178-ebcdcd64a15a",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "d08ed35e-1fc3-49f8-ac28-373d83a3f716",
+        "assessment_date": "2023-09-05T16:06:59.149Z",
+        "rating": 72361,
+        "comment": "Good job, but there's room for growth",
+        "created_at": "2023-09-06T02:01:59.001Z",
+        "updated_at": "2023-09-06T03:05:30.808Z",
+        "event_id": "41f53eeb-8e58-4155-8f45-67e103c44807",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "48f74e20-9a5c-46c2-ae56-1cadcaaa66d9",
+        "assessment_date": "2023-09-05T19:11:34.539Z",
+        "rating": 18803,
+        "comment": "Needs more attention to detail",
+        "created_at": "2023-09-05T14:45:48.459Z",
+        "updated_at": "2023-09-05T13:50:13.319Z",
+        "event_id": "25545820-bb89-47da-ba9e-959386092b63",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "2d688539-926a-4442-a1ef-ad70c822c048",
+        "assessment_date": "2023-09-05T15:44:50.662Z",
+        "rating": 60968,
+        "comment": "Work on improving communication skills",
+        "created_at": "2023-09-05T22:06:44.618Z",
+        "updated_at": "2023-09-05T13:05:44.758Z",
+        "event_id": "8a4f6461-bc47-4b0a-8042-bb879c7d5e50",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8c5e2fb9-e03e-4e8a-a3c9-f987d8da4dce",
+        "email": "Carissa_Morissette79@hotmail.com",
+        "firstName": "Dock",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33359885",
+        "tenantId": null
+      },
+      {
+        "reference": "dcf4d041-647a-4249-b335-de7687db4311",
+        "email": "Hattie.Schuppe2@yahoo.com",
+        "firstName": "Lexus",
+        "lastName": "Gibson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69184523",
+        "tenantId": null
+      },
+      {
+        "reference": "179fb8a2-58c4-44c4-b82f-53f89906e023",
+        "email": "Antoinette_Jacobi25@hotmail.com",
+        "firstName": "Orie",
+        "lastName": "Mayert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/711.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "038fe259-0019-47aa-ae8b-10a91cab8138",
+        "email": "Lavon17@hotmail.com",
+        "firstName": "Pascale",
+        "lastName": "Collins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/93.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d536a3ca-f2ce-4ff5-ba2e-23f629e9c270",
+        "email": "Christopher.Kris96@gmail.com",
+        "firstName": "Katlynn",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/843.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "e88fe236-4033-402e-8056-5c7ab4f491de",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-06T10:49:41.458Z",
+        "location": "New York City",
+        "description": "A glamorous evening of entertainment and fundraising",
+        "created_at": "2023-09-05T15:38:58.791Z",
+        "updated_at": "2023-09-05T12:55:54.303Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "ee0063d7-1c06-4612-a427-2caaf62309d4",
+        "name": "Tech Innovators Conference",
+        "date": "2023-09-06T00:46:02.895Z",
+        "location": "San Francisco",
+        "description": "Bringing together experts to discuss the latest advancements in technology",
+        "created_at": "2023-09-05T20:59:17.552Z",
+        "updated_at": "2023-09-05T22:51:14.748Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "d0a1ca21-da9d-4abf-a0bb-ea0cf826d40d",
+        "name": "Business Leadership Summit",
+        "date": "2023-09-06T10:20:24.794Z",
+        "location": "London",
+        "description": "Empowering leaders to drive business growth and success",
+        "created_at": "2023-09-05T23:50:46.058Z",
+        "updated_at": "2023-09-06T09:35:30.684Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "5134ae7c-7fe8-4636-b8dd-5018da3a4d3e",
+        "name": "Online Learning Webinar",
+        "date": "2023-09-06T11:04:19.281Z",
+        "location": "Tokyo",
+        "description": "Learn from industry experts on various topics",
+        "created_at": "2023-09-05T16:32:16.224Z",
+        "updated_at": "2023-09-05T13:25:40.137Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "5c94eff6-c5b3-46cb-b532-6bcb6bdba9f9",
+        "name": "Healthcare Symposium",
+        "date": "2023-09-06T04:45:34.808Z",
+        "location": "Sydney",
+        "description": "Exploring the future of healthcare and patient care",
+        "created_at": "2023-09-06T01:10:24.661Z",
+        "updated_at": "2023-09-06T04:35:03.694Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "4d36f39b-e673-4bda-a239-b3ff5d4eb4b1",
+        "usage_date": "2023-09-05T13:14:11.878Z",
+        "usage_time": "2023-09-05T22:57:27.760Z",
+        "usage_duration": 13003,
+        "created_at": "2023-09-06T11:28:55.079Z",
+        "updated_at": "2023-09-06T04:48:41.818Z",
+        "event_id": "d0a1ca21-da9d-4abf-a0bb-ea0cf826d40d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3da4079a-c651-4ba9-b987-07c1977e6795",
+        "usage_date": "2023-09-05T14:00:54.910Z",
+        "usage_time": "2023-09-06T01:33:24.055Z",
+        "usage_duration": 70320,
+        "created_at": "2023-09-05T15:27:23.041Z",
+        "updated_at": "2023-09-06T10:09:48.908Z",
+        "event_id": "ee0063d7-1c06-4612-a427-2caaf62309d4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2145b61d-a82f-4854-93ef-a4a6fea7b36c",
+        "usage_date": "2023-09-05T15:38:01.703Z",
+        "usage_time": "2023-09-05T17:14:56.854Z",
+        "usage_duration": 19767,
+        "created_at": "2023-09-06T07:52:33.489Z",
+        "updated_at": "2023-09-05T23:14:21.283Z",
+        "event_id": "ee0063d7-1c06-4612-a427-2caaf62309d4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86608bc4-970b-4883-9649-3787f526d7e9",
+        "usage_date": "2023-09-06T11:05:46.791Z",
+        "usage_time": "2023-09-06T00:31:40.641Z",
+        "usage_duration": 77117,
+        "created_at": "2023-09-06T12:07:42.794Z",
+        "updated_at": "2023-09-06T01:07:03.146Z",
+        "event_id": "ee0063d7-1c06-4612-a427-2caaf62309d4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "359c3fa7-153a-4ecc-98b0-134191025d63",
+        "usage_date": "2023-09-06T12:13:54.721Z",
+        "usage_time": "2023-09-06T03:19:24.862Z",
+        "usage_duration": 3056,
+        "created_at": "2023-09-06T07:36:26.603Z",
+        "updated_at": "2023-09-06T02:01:24.900Z",
+        "event_id": "5134ae7c-7fe8-4636-b8dd-5018da3a4d3e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "3b39920d-ad30-4eba-9740-8eec167996bb",
+        "reservation_date": "2023-09-05T18:47:56.773Z",
+        "status": "Confirmed",
+        "number_of_guests": 16912,
+        "created_at": "2023-09-06T03:26:21.575Z",
+        "updated_at": "2023-09-06T07:58:56.131Z",
+        "event_id": "ee0063d7-1c06-4612-a427-2caaf62309d4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59af3d31-92a4-4653-9c7e-40b59e99209d",
+        "reservation_date": "2023-09-06T10:40:56.905Z",
+        "status": "Pending",
+        "number_of_guests": 77997,
+        "created_at": "2023-09-06T04:11:14.014Z",
+        "updated_at": "2023-09-06T01:34:01.002Z",
+        "event_id": "5134ae7c-7fe8-4636-b8dd-5018da3a4d3e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f321cee-8a80-45cf-945d-4c3d6050ce4b",
+        "reservation_date": "2023-09-05T12:25:55.157Z",
+        "status": "Cancelled",
+        "number_of_guests": 35697,
+        "created_at": "2023-09-05T16:14:44.864Z",
+        "updated_at": "2023-09-06T07:26:42.295Z",
+        "event_id": "5134ae7c-7fe8-4636-b8dd-5018da3a4d3e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbf7cf16-a0dc-4cb8-87f1-cb9040efe950",
+        "reservation_date": "2023-09-05T19:46:06.112Z",
+        "status": "On Hold",
+        "number_of_guests": 65326,
+        "created_at": "2023-09-05T19:24:59.183Z",
+        "updated_at": "2023-09-06T07:13:04.877Z",
+        "event_id": "ee0063d7-1c06-4612-a427-2caaf62309d4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80b6ad94-5b79-40e1-a4c5-b8f907e91583",
+        "reservation_date": "2023-09-05T15:00:07.586Z",
+        "status": "Completed",
+        "number_of_guests": 71099,
+        "created_at": "2023-09-06T05:49:56.294Z",
+        "updated_at": "2023-09-05T20:55:47.404Z",
+        "event_id": "ee0063d7-1c06-4612-a427-2caaf62309d4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "5aaef9a3-f9c6-4635-9548-21c4c81c73ef",
+        "assessment_date": "2023-09-05T12:36:40.013Z",
+        "rating": 64844,
+        "comment": "Excellent performance, exceeded expectations",
+        "created_at": "2023-09-05T14:46:18.726Z",
+        "updated_at": "2023-09-05T23:23:10.503Z",
+        "event_id": "e88fe236-4033-402e-8056-5c7ab4f491de",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "0d1ec070-7744-4518-928d-0452480af5c2",
+        "assessment_date": "2023-09-05T14:16:02.665Z",
+        "rating": 26629,
+        "comment": "Good job, keep up the great work",
+        "created_at": "2023-09-05T16:13:21.948Z",
+        "updated_at": "2023-09-05T18:44:01.994Z",
+        "event_id": "5134ae7c-7fe8-4636-b8dd-5018da3a4d3e",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "d77c7243-2745-4147-baf5-9d9204832ae8",
+        "assessment_date": "2023-09-06T11:02:32.873Z",
+        "rating": 40320,
+        "comment": "Areas of improvement identified, work on them",
+        "created_at": "2023-09-06T10:59:26.643Z",
+        "updated_at": "2023-09-05T15:37:09.782Z",
+        "event_id": "ee0063d7-1c06-4612-a427-2caaf62309d4",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "070c7d8f-00ca-476a-80a6-d46bf51488f8",
+        "assessment_date": "2023-09-05T21:05:06.185Z",
+        "rating": 51360,
+        "comment": "Satisfactory performance, met expectations",
+        "created_at": "2023-09-06T09:37:31.561Z",
+        "updated_at": "2023-09-05T21:05:07.650Z",
+        "event_id": "d0a1ca21-da9d-4abf-a0bb-ea0cf826d40d",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "3719f87e-e61a-428a-99de-20162691afad",
+        "assessment_date": "2023-09-05T21:52:31.459Z",
+        "rating": 46764,
+        "comment": "Well done, your efforts are appreciated",
+        "created_at": "2023-09-05T17:15:48.400Z",
+        "updated_at": "2023-09-05T13:12:28.468Z",
+        "event_id": "e88fe236-4033-402e-8056-5c7ab4f491de",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "35033538-5eb1-45c7-80d7-1963d3b93728",
+        "email": "Eve.Ullrich55@hotmail.com",
+        "firstName": "Delfina",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75700405",
+        "tenantId": null
+      },
+      {
+        "reference": "b3e565d3-4d66-45e1-b28e-9250c7504fb1",
+        "email": "Jamal_DuBuque91@hotmail.com",
+        "firstName": "Emery",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/203767",
+        "tenantId": null
+      },
+      {
+        "reference": "8fefe844-a868-4249-9be0-7dd026bec309",
+        "email": "Laila_Kihn30@yahoo.com",
+        "firstName": "Claudine",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14762654",
+        "tenantId": null
+      },
+      {
+        "reference": "11bcac6c-3841-47f8-b380-f699d5e3ba3d",
+        "email": "Charity38@hotmail.com",
+        "firstName": "Jon",
+        "lastName": "Ledner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/813.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b0f94f27-3ad5-49d2-b8b5-3344f4c8f01e",
+        "email": "Rodrick84@hotmail.com",
+        "firstName": "Emma",
+        "lastName": "Feil",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1065.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-06T04:54:03.017Z",
+        "location": "New York City",
+        "description": "Join us for an evening of fundraising and entertainment",
+        "created_at": "2023-09-05T19:40:26.949Z",
+        "updated_at": "2023-09-06T07:19:07.663Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "e497495c-8d75-4654-9e04-460627d7b13a",
+        "name": "Tech Conference 2022",
+        "date": "2023-09-06T01:09:29.618Z",
+        "location": "San Francisco",
+        "description": "Explore the latest trends in technology and innovation",
+        "created_at": "2023-09-05T20:29:51.853Z",
+        "updated_at": "2023-09-05T15:54:07.036Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "c6f601e9-1f89-49dd-8226-98f4aaf57f86",
+        "name": "Business Summit",
+        "date": "2023-09-06T10:57:14.152Z",
+        "location": "London",
+        "description": "Connect with industry leaders and explore new opportunities",
+        "created_at": "2023-09-05T21:44:02.036Z",
+        "updated_at": "2023-09-06T11:36:42.844Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "693014e8-a5d8-4385-b1bb-7120b32708a2",
+        "name": "Medical Symposium",
+        "date": "2023-09-06T12:01:43.873Z",
+        "location": "Tokyo",
+        "description": "Learn from renowned medical experts and researchers",
+        "created_at": "2023-09-05T12:52:54.749Z",
+        "updated_at": "2023-09-05T13:07:07.479Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "a06eba01-4ecc-4097-b0c7-5a9f5db4f960",
+        "name": "Fashion Show",
+        "date": "2023-09-06T10:53:02.202Z",
+        "location": "Paris",
+        "description": "Experience the latest fashion collections from top designers",
+        "created_at": "2023-09-06T00:18:25.507Z",
+        "updated_at": "2023-09-06T00:38:55.498Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "44927c71-b607-412e-b08c-863c10a4ae90",
+        "usage_date": "2023-09-05T17:15:27.191Z",
+        "usage_time": "2023-09-05T23:22:12.626Z",
+        "usage_duration": 40251,
+        "created_at": "2023-09-05T17:18:20.793Z",
+        "updated_at": "2023-09-06T02:15:28.124Z",
+        "event_id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b8af0930-7457-4e21-a899-a7bd179509bf",
+        "usage_date": "2023-09-05T18:51:21.290Z",
+        "usage_time": "2023-09-06T02:19:27.098Z",
+        "usage_duration": 24117,
+        "created_at": "2023-09-05T17:16:37.894Z",
+        "updated_at": "2023-09-05T14:53:29.859Z",
+        "event_id": "e497495c-8d75-4654-9e04-460627d7b13a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb4c4c2a-d09e-4a7c-b80a-0ae24092d892",
+        "usage_date": "2023-09-06T07:51:36.905Z",
+        "usage_time": "2023-09-05T20:43:02.501Z",
+        "usage_duration": 87419,
+        "created_at": "2023-09-05T15:03:08.433Z",
+        "updated_at": "2023-09-05T21:07:57.232Z",
+        "event_id": "a06eba01-4ecc-4097-b0c7-5a9f5db4f960",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1737a36-bdfa-40d6-8f17-d60ae230b000",
+        "usage_date": "2023-09-05T14:26:50.203Z",
+        "usage_time": "2023-09-06T02:51:45.853Z",
+        "usage_duration": 18135,
+        "created_at": "2023-09-05T14:26:10.583Z",
+        "updated_at": "2023-09-05T19:24:01.199Z",
+        "event_id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fca6dffe-840b-4079-8179-a298c160cafc",
+        "usage_date": "2023-09-05T15:01:59.435Z",
+        "usage_time": "2023-09-06T10:17:58.608Z",
+        "usage_duration": 22526,
+        "created_at": "2023-09-06T02:51:01.095Z",
+        "updated_at": "2023-09-05T22:37:18.417Z",
+        "event_id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "164f1fb0-8b4b-4332-a4e1-156634193b4c",
+        "reservation_date": "2023-09-05T16:21:45.540Z",
+        "status": "Confirmed",
+        "number_of_guests": 23794,
+        "created_at": "2023-09-05T21:04:27.367Z",
+        "updated_at": "2023-09-05T14:07:17.655Z",
+        "event_id": "693014e8-a5d8-4385-b1bb-7120b32708a2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a0b1305-db7b-4759-90a1-657621c96702",
+        "reservation_date": "2023-09-06T07:38:40.699Z",
+        "status": "Pending",
+        "number_of_guests": 28664,
+        "created_at": "2023-09-05T14:21:02.756Z",
+        "updated_at": "2023-09-06T09:49:19.219Z",
+        "event_id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ecd6d7a-4446-4385-8d09-d2b2f429f5d5",
+        "reservation_date": "2023-09-05T15:53:44.116Z",
+        "status": "Cancelled",
+        "number_of_guests": 24218,
+        "created_at": "2023-09-05T15:56:47.008Z",
+        "updated_at": "2023-09-06T08:44:17.267Z",
+        "event_id": "e497495c-8d75-4654-9e04-460627d7b13a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9d29371-6cd0-47ac-aa90-d1c3d70eb009",
+        "reservation_date": "2023-09-05T17:28:34.331Z",
+        "status": "Completed",
+        "number_of_guests": 45407,
+        "created_at": "2023-09-05T14:19:43.907Z",
+        "updated_at": "2023-09-05T14:44:10.171Z",
+        "event_id": "a06eba01-4ecc-4097-b0c7-5a9f5db4f960",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd5f582d-09a0-46c7-abd0-8ebe36bb0469",
+        "reservation_date": "2023-09-05T19:48:06.684Z",
+        "status": "On Hold",
+        "number_of_guests": 40019,
+        "created_at": "2023-09-05T17:44:17.512Z",
+        "updated_at": "2023-09-05T20:01:19.732Z",
+        "event_id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "72403b27-a904-49f1-887f-fecdb0f2241e",
+        "assessment_date": "2023-09-05T21:18:55.193Z",
+        "rating": 59510,
+        "comment": "Excellent work! Keep it up.",
+        "created_at": "2023-09-05T14:03:08.683Z",
+        "updated_at": "2023-09-06T04:37:20.681Z",
+        "event_id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "03978b68-9837-448b-baef-297eaf4a3b33",
+        "assessment_date": "2023-09-05T15:48:06.606Z",
+        "rating": 27261,
+        "comment": "Good effort, but there is room for improvement.",
+        "created_at": "2023-09-05T20:11:31.057Z",
+        "updated_at": "2023-09-05T13:30:23.538Z",
+        "event_id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "8ff12ee9-7904-41f7-9cd8-42c6b73b9db0",
+        "assessment_date": "2023-09-05T16:13:59.132Z",
+        "rating": 64518,
+        "comment": "Needs more attention to detail.",
+        "created_at": "2023-09-06T00:09:52.829Z",
+        "updated_at": "2023-09-06T07:32:18.697Z",
+        "event_id": "e497495c-8d75-4654-9e04-460627d7b13a",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "c1f31647-083c-4da4-86ce-6d12cadd6308",
+        "assessment_date": "2023-09-05T20:01:36.182Z",
+        "rating": 83859,
+        "comment": "Impressive performance.",
+        "created_at": "2023-09-05T20:24:16.611Z",
+        "updated_at": "2023-09-06T09:12:05.126Z",
+        "event_id": "c6f601e9-1f89-49dd-8226-98f4aaf57f86",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "257d11a6-7c39-475c-8ef5-e13e92acf913",
+        "assessment_date": "2023-09-05T13:53:26.707Z",
+        "rating": 87521,
+        "comment": "Well done on meeting the objectives.",
+        "created_at": "2023-09-05T12:50:53.547Z",
+        "updated_at": "2023-09-06T05:57:06.704Z",
+        "event_id": "502e9ed1-faa4-4490-976e-9b068069395f",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ee9a6f72-c8db-48ad-86a7-bd14aca693b1",
+        "email": "Gisselle21@hotmail.com",
+        "firstName": "Justen",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/842.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f1df139d-9a37-443d-ad0c-61433b5b8be2",
+        "email": "Wendell.Okuneva@gmail.com",
+        "firstName": "Lacey",
+        "lastName": "Mayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1145.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "af1071a2-65ef-4bba-856e-353582b44027",
+        "email": "Hilton2@gmail.com",
+        "firstName": "Tyrel",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/909.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e177d047-47ba-4373-8e29-f41410c10f18",
+        "email": "Hettie31@yahoo.com",
+        "firstName": "Caleigh",
+        "lastName": "Green",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41110592",
+        "tenantId": null
+      },
+      {
+        "reference": "0559a46a-e3f8-4ecd-b46f-90dad606ac0f",
+        "email": "Maximilian.Spencer61@hotmail.com",
+        "firstName": "Eric",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34578165",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "0709b469-1449-4176-945b-52b22a49362a",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-05T20:42:14.887Z",
+        "location": "New York City",
+        "description": "Join us for an evening of fundraising and entertainment",
+        "created_at": "2023-09-06T01:38:39.778Z",
+        "updated_at": "2023-09-05T22:18:43.268Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "b37a138c-a119-4a83-a616-6498fbc3bdb5",
+        "name": "Tech Conference 2022",
+        "date": "2023-09-06T11:50:43.834Z",
+        "location": "San Francisco",
+        "description": "Discover the latest trends in technology",
+        "created_at": "2023-09-05T21:28:32.201Z",
+        "updated_at": "2023-09-06T03:09:03.349Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "e7127152-8520-4d65-bd98-a15c633898f0",
+        "name": "Finance Summit",
+        "date": "2023-09-06T01:31:06.594Z",
+        "location": "London",
+        "description": "Explore innovative financial strategies",
+        "created_at": "2023-09-05T13:39:28.617Z",
+        "updated_at": "2023-09-05T20:31:28.076Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "82a6cac4-83d7-4e1f-94c4-79134a8564ca",
+        "name": "Healthcare Symposium",
+        "date": "2023-09-05T13:46:08.717Z",
+        "location": "Tokyo",
+        "description": "Discuss advancements in healthcare",
+        "created_at": "2023-09-06T11:38:55.714Z",
+        "updated_at": "2023-09-05T22:21:43.856Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "93e8adf9-199e-4939-8579-aca116418fd3",
+        "name": "Education Expo",
+        "date": "2023-09-05T16:56:10.544Z",
+        "location": "Sydney",
+        "description": "Experience the future of education",
+        "created_at": "2023-09-05T12:43:45.114Z",
+        "updated_at": "2023-09-06T01:42:10.427Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "02840718-c690-4f06-9046-7aaa72ad085a",
+        "usage_date": "2023-09-06T11:25:16.296Z",
+        "usage_time": "2023-09-05T13:50:47.048Z",
+        "usage_duration": 71029,
+        "created_at": "2023-09-06T08:06:22.665Z",
+        "updated_at": "2023-09-05T16:59:18.173Z",
+        "event_id": "0709b469-1449-4176-945b-52b22a49362a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8744c610-4703-424b-83ee-7052a59130bc",
+        "usage_date": "2023-09-06T11:02:54.519Z",
+        "usage_time": "2023-09-05T18:12:57.964Z",
+        "usage_duration": 28684,
+        "created_at": "2023-09-06T10:54:52.604Z",
+        "updated_at": "2023-09-06T08:18:48.388Z",
+        "event_id": "0709b469-1449-4176-945b-52b22a49362a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87bb7787-54ae-473f-896d-fe33b4239b88",
+        "usage_date": "2023-09-05T23:39:39.077Z",
+        "usage_time": "2023-09-05T16:52:06.067Z",
+        "usage_duration": 59577,
+        "created_at": "2023-09-05T12:38:31.762Z",
+        "updated_at": "2023-09-06T08:37:08.861Z",
+        "event_id": "0709b469-1449-4176-945b-52b22a49362a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f0bdf6cc-fa40-4f10-99e8-1e0e42e6bb47",
+        "usage_date": "2023-09-06T00:03:19.710Z",
+        "usage_time": "2023-09-06T09:22:18.412Z",
+        "usage_duration": 28120,
+        "created_at": "2023-09-06T00:01:54.465Z",
+        "updated_at": "2023-09-06T03:39:59.720Z",
+        "event_id": "b37a138c-a119-4a83-a616-6498fbc3bdb5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4d5cd73-043d-4467-9eb9-6e9f936ab434",
+        "usage_date": "2023-09-05T21:01:26.392Z",
+        "usage_time": "2023-09-06T10:17:58.822Z",
+        "usage_duration": 79594,
+        "created_at": "2023-09-05T13:03:21.578Z",
+        "updated_at": "2023-09-05T22:39:05.789Z",
+        "event_id": "82a6cac4-83d7-4e1f-94c4-79134a8564ca",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "f3ade630-2b45-47de-8c18-9ba9482ed91f",
+        "reservation_date": "2023-09-05T16:06:32.894Z",
+        "status": "Confirmed",
+        "number_of_guests": 83662,
+        "created_at": "2023-09-06T09:40:35.750Z",
+        "updated_at": "2023-09-05T23:25:25.102Z",
+        "event_id": "b37a138c-a119-4a83-a616-6498fbc3bdb5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5dc89068-05e0-4982-b42e-51b7ffbfc7ed",
+        "reservation_date": "2023-09-05T18:30:33.580Z",
+        "status": "Pending",
+        "number_of_guests": 62561,
+        "created_at": "2023-09-06T01:30:44.577Z",
+        "updated_at": "2023-09-05T23:06:51.196Z",
+        "event_id": "82a6cac4-83d7-4e1f-94c4-79134a8564ca",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc77bab3-f4fb-463b-8d2b-d3cffeb8d06d",
+        "reservation_date": "2023-09-05T21:34:57.291Z",
+        "status": "Cancelled",
+        "number_of_guests": 63796,
+        "created_at": "2023-09-05T17:37:12.543Z",
+        "updated_at": "2023-09-06T09:16:43.265Z",
+        "event_id": "82a6cac4-83d7-4e1f-94c4-79134a8564ca",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4344734-9d7c-4515-8f54-d2586bc87b7f",
+        "reservation_date": "2023-09-06T01:50:16.135Z",
+        "status": "Completed",
+        "number_of_guests": 79140,
+        "created_at": "2023-09-05T16:17:59.050Z",
+        "updated_at": "2023-09-06T10:21:03.280Z",
+        "event_id": "b37a138c-a119-4a83-a616-6498fbc3bdb5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f57509d-3712-4a55-ae8f-3aef6406d241",
+        "reservation_date": "2023-09-06T09:04:09.689Z",
+        "status": "On Hold",
+        "number_of_guests": 78202,
+        "created_at": "2023-09-06T00:39:07.163Z",
+        "updated_at": "2023-09-06T09:40:51.106Z",
+        "event_id": "0709b469-1449-4176-945b-52b22a49362a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "d8d1a686-dada-41d1-89ce-ab66733c149f",
+        "assessment_date": "2023-09-06T07:30:31.071Z",
+        "rating": 30594,
+        "comment": "Excellent work! Keep it up.",
+        "created_at": "2023-09-05T19:08:12.338Z",
+        "updated_at": "2023-09-06T10:39:42.482Z",
+        "event_id": "0709b469-1449-4176-945b-52b22a49362a",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "1a84eafe-96c1-41a4-ac51-d84fcd361150",
+        "assessment_date": "2023-09-06T00:52:51.957Z",
+        "rating": 5934,
+        "comment": "Great job on the project.",
+        "created_at": "2023-09-05T23:45:37.422Z",
+        "updated_at": "2023-09-05T19:49:42.190Z",
+        "event_id": "0709b469-1449-4176-945b-52b22a49362a",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "e3702464-c632-493f-8de7-bf390be03a67",
+        "assessment_date": "2023-09-05T16:55:58.949Z",
+        "rating": 85444,
+        "comment": "Your performance has been outstanding.",
+        "created_at": "2023-09-06T04:47:43.570Z",
+        "updated_at": "2023-09-06T10:38:22.786Z",
+        "event_id": "82a6cac4-83d7-4e1f-94c4-79134a8564ca",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "7283eb67-4793-4565-b467-f29337dad776",
+        "assessment_date": "2023-09-05T17:44:58.757Z",
+        "rating": 53726,
+        "comment": "Thank you for your dedication and hard work.",
+        "created_at": "2023-09-06T01:33:27.792Z",
+        "updated_at": "2023-09-06T00:31:43.678Z",
+        "event_id": "e7127152-8520-4d65-bd98-a15c633898f0",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "eb096175-58b0-4e32-a4df-96248986bc27",
+        "assessment_date": "2023-09-05T17:02:08.287Z",
+        "rating": 54510,
+        "comment": "Your contributions have been invaluable.",
+        "created_at": "2023-09-05T16:13:34.146Z",
+        "updated_at": "2023-09-06T01:29:06.621Z",
+        "event_id": "93e8adf9-199e-4939-8579-aca116418fd3",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e20cfced-fbcd-42c3-9835-4517368d5c3b",
+        "email": "Hope.Stamm@yahoo.com",
+        "firstName": "Ariane",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35970340",
+        "tenantId": null
+      },
+      {
+        "reference": "3d8eae93-0843-4b1a-a619-015156504cd7",
+        "email": "Cassie39@gmail.com",
+        "firstName": "Newell",
+        "lastName": "Mohr",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24151034",
+        "tenantId": null
+      },
+      {
+        "reference": "c54afac6-839d-4dee-89da-ba68a0b34fd3",
+        "email": "Claude.Gerlach99@yahoo.com",
+        "firstName": "Lionel",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76942375",
+        "tenantId": null
+      },
+      {
+        "reference": "f574485e-ed5f-4c9c-a473-30d39672dd35",
+        "email": "Dolores_Jacobson3@hotmail.com",
+        "firstName": "Adriel",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23475026",
+        "tenantId": null
+      },
+      {
+        "reference": "5715dc51-5303-4a22-b892-af1fd2e83a1c",
+        "email": "Yesenia.Jast@yahoo.com",
+        "firstName": "General",
+        "lastName": "Huel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80719367",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "e1cca601-4081-4fa4-b0f3-6b1d76989248",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-06T06:41:18.910Z",
+        "location": "Grand Ballroom, City Center",
+        "description": "Join us for an evening of elegance and philanthropy",
+        "created_at": "2023-09-05T15:51:13.329Z",
+        "updated_at": "2023-09-06T01:28:01.776Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "13dbe25a-c72b-4dea-88b1-b82026fa6f40",
+        "name": "Tech Conference 2022",
+        "date": "2023-09-05T19:10:08.668Z",
+        "location": "Convention Center, Downtown",
+        "description": "Discover the latest advancements in technology",
+        "created_at": "2023-09-06T11:18:24.452Z",
+        "updated_at": "2023-09-06T00:26:24.972Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "3f5d4a90-6bb5-4b50-a2fc-0c949fe1db62",
+        "name": "Business Strategy Workshop",
+        "date": "2023-09-05T22:19:17.564Z",
+        "location": "Conference Hall, Business District",
+        "description": "Learn effective strategies to drive business growth",
+        "created_at": "2023-09-05T13:52:46.462Z",
+        "updated_at": "2023-09-06T11:13:52.009Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "2ebb68c3-333d-4ce0-8279-da41c4edcc6d",
+        "name": "Fashion Show Extravaganza",
+        "date": "2023-09-06T09:08:11.675Z",
+        "location": "Fashion Week Venue, Fashion District",
+        "description": "Experience the latest trends in sustainable fashion",
+        "created_at": "2023-09-06T02:12:35.604Z",
+        "updated_at": "2023-09-05T23:24:02.988Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "4c369bd4-29b8-483c-9a1e-dd1a2b56fd8e",
+        "name": "Medical Symposium",
+        "date": "2023-09-06T01:07:53.266Z",
+        "location": "Medical Center Auditorium",
+        "description": "Explore innovative medical research and practices",
+        "created_at": "2023-09-05T23:49:15.510Z",
+        "updated_at": "2023-09-06T03:26:14.516Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "e5d0867f-a7a3-475f-909c-d9810ab17990",
+        "usage_date": "2023-09-05T13:58:05.206Z",
+        "usage_time": "2023-09-05T14:58:39.981Z",
+        "usage_duration": 75445,
+        "created_at": "2023-09-06T07:43:14.776Z",
+        "updated_at": "2023-09-06T07:56:49.069Z",
+        "event_id": "2ebb68c3-333d-4ce0-8279-da41c4edcc6d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "141eeb7e-6a5c-4cda-9e15-d9fe1ac47323",
+        "usage_date": "2023-09-05T15:51:17.909Z",
+        "usage_time": "2023-09-05T12:51:49.432Z",
+        "usage_duration": 80715,
+        "created_at": "2023-09-05T18:33:47.126Z",
+        "updated_at": "2023-09-05T16:01:30.480Z",
+        "event_id": "e1cca601-4081-4fa4-b0f3-6b1d76989248",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f8c7720-a495-4b40-9d87-bafebc80e82a",
+        "usage_date": "2023-09-06T11:10:57.131Z",
+        "usage_time": "2023-09-05T19:00:41.893Z",
+        "usage_duration": 61547,
+        "created_at": "2023-09-06T07:16:54.201Z",
+        "updated_at": "2023-09-05T21:55:14.704Z",
+        "event_id": "13dbe25a-c72b-4dea-88b1-b82026fa6f40",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25acf193-3d39-480d-bd17-e58f21e1b1c5",
+        "usage_date": "2023-09-05T13:23:23.140Z",
+        "usage_time": "2023-09-06T00:15:38.465Z",
+        "usage_duration": 90302,
+        "created_at": "2023-09-06T12:13:16.758Z",
+        "updated_at": "2023-09-05T13:01:27.299Z",
+        "event_id": "4c369bd4-29b8-483c-9a1e-dd1a2b56fd8e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "064a1a59-e2b4-4320-9309-a7acd79299da",
+        "usage_date": "2023-09-05T16:24:07.283Z",
+        "usage_time": "2023-09-05T12:59:21.812Z",
+        "usage_duration": 29033,
+        "created_at": "2023-09-05T22:50:43.194Z",
+        "updated_at": "2023-09-06T03:26:01.822Z",
+        "event_id": "13dbe25a-c72b-4dea-88b1-b82026fa6f40",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "30c7ea2a-3607-4dee-8406-606942fef7ad",
+        "reservation_date": "2023-09-05T18:09:56.206Z",
+        "status": "Confirmed",
+        "number_of_guests": 80918,
+        "created_at": "2023-09-06T10:04:40.149Z",
+        "updated_at": "2023-09-05T16:12:46.600Z",
+        "event_id": "13dbe25a-c72b-4dea-88b1-b82026fa6f40",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00eacd39-2dbe-41dd-9709-328a2ff0b11e",
+        "reservation_date": "2023-09-05T20:56:43.084Z",
+        "status": "Pending",
+        "number_of_guests": 97036,
+        "created_at": "2023-09-06T04:14:39.103Z",
+        "updated_at": "2023-09-06T12:20:35.632Z",
+        "event_id": "4c369bd4-29b8-483c-9a1e-dd1a2b56fd8e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a346779c-d3aa-448e-8347-c0d392ea7dc8",
+        "reservation_date": "2023-09-05T20:51:40.704Z",
+        "status": "Cancelled",
+        "number_of_guests": 41052,
+        "created_at": "2023-09-05T15:51:37.153Z",
+        "updated_at": "2023-09-05T16:40:22.736Z",
+        "event_id": "e1cca601-4081-4fa4-b0f3-6b1d76989248",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c88aeaf-5401-4e56-aa72-3c56bb80f669",
+        "reservation_date": "2023-09-06T01:21:38.566Z",
+        "status": "Completed",
+        "number_of_guests": 82190,
+        "created_at": "2023-09-05T22:08:53.746Z",
+        "updated_at": "2023-09-05T20:19:40.723Z",
+        "event_id": "2ebb68c3-333d-4ce0-8279-da41c4edcc6d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f1bc45e-cd07-4fa1-9ec8-2938501e703d",
+        "reservation_date": "2023-09-06T11:01:58.289Z",
+        "status": "On Hold",
+        "number_of_guests": 11032,
+        "created_at": "2023-09-06T02:23:55.477Z",
+        "updated_at": "2023-09-06T06:41:39.363Z",
+        "event_id": "2ebb68c3-333d-4ce0-8279-da41c4edcc6d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "c95b6bdf-f471-4d34-a1e6-8e5f01e7a81a",
+        "assessment_date": "2023-09-05T19:20:47.797Z",
+        "rating": 10299,
+        "comment": "Excellent work, exceeded expectations",
+        "created_at": "2023-09-05T22:49:52.157Z",
+        "updated_at": "2023-09-05T17:49:55.732Z",
+        "event_id": "4c369bd4-29b8-483c-9a1e-dd1a2b56fd8e",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "307bf879-e9b3-48b8-980e-025ff5693d53",
+        "assessment_date": "2023-09-05T21:28:02.929Z",
+        "rating": 24712,
+        "comment": "Great attention to detail",
+        "created_at": "2023-09-05T17:20:37.899Z",
+        "updated_at": "2023-09-05T16:38:21.656Z",
+        "event_id": "4c369bd4-29b8-483c-9a1e-dd1a2b56fd8e",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "5547ae09-1427-4c8a-8f7d-1b36014489d7",
+        "assessment_date": "2023-09-05T18:14:55.795Z",
+        "rating": 41985,
+        "comment": "Good communication skills",
+        "created_at": "2023-09-05T21:14:16.005Z",
+        "updated_at": "2023-09-06T08:45:51.182Z",
+        "event_id": "2ebb68c3-333d-4ce0-8279-da41c4edcc6d",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "526a3554-000a-4e27-b1ad-4326a5b90318",
+        "assessment_date": "2023-09-06T03:09:00.462Z",
+        "rating": 79061,
+        "comment": "Shows potential for growth",
+        "created_at": "2023-09-06T00:37:47.764Z",
+        "updated_at": "2023-09-06T03:49:00.855Z",
+        "event_id": "3f5d4a90-6bb5-4b50-a2fc-0c949fe1db62",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "5de69a28-efed-453c-8c91-eea98cb03015",
+        "assessment_date": "2023-09-06T00:24:37.789Z",
+        "rating": 1272,
+        "comment": "Needs improvement in time management",
+        "created_at": "2023-09-05T23:14:33.340Z",
+        "updated_at": "2023-09-06T00:28:40.807Z",
+        "event_id": "13dbe25a-c72b-4dea-88b1-b82026fa6f40",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c1bf626a-bc8f-463e-9f2c-46584bb349a4",
+        "email": "Weldon_Legros@gmail.com",
+        "firstName": "Ara",
+        "lastName": "Zieme",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18332561",
+        "tenantId": null
+      },
+      {
+        "reference": "bb481fec-78cf-422a-abf9-a3e5f94170bc",
+        "email": "Ivy70@gmail.com",
+        "firstName": "Ethelyn",
+        "lastName": "Tremblay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/518.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "06bd1b16-0b41-4ac3-a938-96928e4fd7c7",
+        "email": "Leslie.Olson@hotmail.com",
+        "firstName": "Frieda",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6215670",
+        "tenantId": null
+      },
+      {
+        "reference": "5ba815c7-0df1-4bca-b456-bcd807b3d1e1",
+        "email": "Margarett.Legros57@hotmail.com",
+        "firstName": "Garth",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1075.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "09295b72-9a54-4e3d-b040-13b43280edb5",
+        "email": "Spencer.Rosenbaum4@yahoo.com",
+        "firstName": "Zion",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/902.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "7647a98b-6ec4-41fc-8555-4057e2cb9c13",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-06T06:33:33.913Z",
+        "location": "New York City",
+        "description": "Join us for an unforgettable evening of giving back",
+        "created_at": "2023-09-06T00:02:21.346Z",
+        "updated_at": "2023-09-05T20:55:49.791Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "cf8943b3-8341-4eac-b438-c2599d168b4d",
+        "name": "Tech Conference 2022",
+        "date": "2023-09-06T09:27:48.500Z",
+        "location": "San Francisco",
+        "description": "The premier event for tech enthusiasts and professionals",
+        "created_at": "2023-09-05T22:15:40.410Z",
+        "updated_at": "2023-09-06T10:53:05.709Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "81752892-f880-4b1b-8a34-7836868f6a3f",
+        "name": "Medical Symposium",
+        "date": "2023-09-06T05:35:41.091Z",
+        "location": "London",
+        "description": "Explore the latest advancements in medical research",
+        "created_at": "2023-09-06T08:39:17.408Z",
+        "updated_at": "2023-09-05T12:52:47.510Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "4f871de6-4281-46bb-b67c-9ba4256dfb9c",
+        "name": "Fashion Show Extravaganza",
+        "date": "2023-09-05T17:05:30.782Z",
+        "location": "Paris",
+        "description": "Experience the future of sustainable fashion",
+        "created_at": "2023-09-06T02:12:47.482Z",
+        "updated_at": "2023-09-05T23:45:02.944Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "4a8fa6cd-8ca7-4e55-8661-ea60affb9df6",
+        "name": "International Humanitarian Summit",
+        "date": "2023-09-06T11:04:08.414Z",
+        "location": "Tokyo",
+        "description": "Bringing together global leaders to address pressing humanitarian issues",
+        "created_at": "2023-09-05T23:51:24.748Z",
+        "updated_at": "2023-09-06T06:05:05.526Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "2d9f6b92-098f-4fc5-8c58-a5adaa75ec2c",
+        "usage_date": "2023-09-06T05:41:28.919Z",
+        "usage_time": "2023-09-06T03:12:37.408Z",
+        "usage_duration": 74582,
+        "created_at": "2023-09-05T17:07:56.808Z",
+        "updated_at": "2023-09-05T21:22:15.026Z",
+        "event_id": "cf8943b3-8341-4eac-b438-c2599d168b4d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39f9cc37-bc9d-4b22-aede-8a182bfe5c68",
+        "usage_date": "2023-09-06T00:24:10.256Z",
+        "usage_time": "2023-09-05T13:24:56.333Z",
+        "usage_duration": 17699,
+        "created_at": "2023-09-06T07:15:17.204Z",
+        "updated_at": "2023-09-06T00:39:35.315Z",
+        "event_id": "81752892-f880-4b1b-8a34-7836868f6a3f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36456f85-dcd1-4072-9dfa-ae7a4bffea72",
+        "usage_date": "2023-09-05T15:13:25.213Z",
+        "usage_time": "2023-09-05T15:35:48.751Z",
+        "usage_duration": 65280,
+        "created_at": "2023-09-05T20:35:04.751Z",
+        "updated_at": "2023-09-05T23:52:14.093Z",
+        "event_id": "cf8943b3-8341-4eac-b438-c2599d168b4d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c99fe15a-cd9a-40c9-8351-3236beea3838",
+        "usage_date": "2023-09-06T05:08:48.581Z",
+        "usage_time": "2023-09-06T06:12:23.393Z",
+        "usage_duration": 46615,
+        "created_at": "2023-09-06T08:16:13.245Z",
+        "updated_at": "2023-09-06T00:09:42.027Z",
+        "event_id": "cf8943b3-8341-4eac-b438-c2599d168b4d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a049b3e-f2bf-46d0-83ab-8791946501be",
+        "usage_date": "2023-09-05T16:55:40.681Z",
+        "usage_time": "2023-09-06T08:05:10.910Z",
+        "usage_duration": 68,
+        "created_at": "2023-09-06T06:59:00.109Z",
+        "updated_at": "2023-09-06T03:23:31.446Z",
+        "event_id": "cf8943b3-8341-4eac-b438-c2599d168b4d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "08b6210d-77da-42c1-9d27-46da9bd54106",
+        "reservation_date": "2023-09-05T19:39:53.255Z",
+        "status": "Confirmed",
+        "number_of_guests": 32421,
+        "created_at": "2023-09-05T22:16:51.543Z",
+        "updated_at": "2023-09-05T23:52:03.065Z",
+        "event_id": "81752892-f880-4b1b-8a34-7836868f6a3f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b28a217-47fc-486d-a178-545a682c0eb6",
+        "reservation_date": "2023-09-05T16:44:46.504Z",
+        "status": "Pending",
+        "number_of_guests": 36991,
+        "created_at": "2023-09-05T20:23:37.917Z",
+        "updated_at": "2023-09-06T12:21:46.288Z",
+        "event_id": "cf8943b3-8341-4eac-b438-c2599d168b4d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "065dd940-105e-42dd-8ad5-2d5b7654564a",
+        "reservation_date": "2023-09-06T03:14:50.057Z",
+        "status": "Cancelled",
+        "number_of_guests": 45310,
+        "created_at": "2023-09-06T10:27:47.631Z",
+        "updated_at": "2023-09-06T01:38:27.993Z",
+        "event_id": "81752892-f880-4b1b-8a34-7836868f6a3f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45041132-e9ff-4ab2-b40a-a60c387a902f",
+        "reservation_date": "2023-09-05T15:08:46.112Z",
+        "status": "On Hold",
+        "number_of_guests": 43928,
+        "created_at": "2023-09-06T05:11:36.885Z",
+        "updated_at": "2023-09-05T18:15:47.680Z",
+        "event_id": "cf8943b3-8341-4eac-b438-c2599d168b4d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f68e57d2-e92a-436b-9d2a-2500653f6542",
+        "reservation_date": "2023-09-05T18:27:23.498Z",
+        "status": "Completed",
+        "number_of_guests": 48672,
+        "created_at": "2023-09-05T15:04:30.620Z",
+        "updated_at": "2023-09-06T11:50:39.805Z",
+        "event_id": "cf8943b3-8341-4eac-b438-c2599d168b4d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "e7e809a2-9681-41a6-8e12-b258a1cc8176",
+        "assessment_date": "2023-09-06T06:09:34.999Z",
+        "rating": 14221,
+        "comment": "Outstanding performance!",
+        "created_at": "2023-09-06T08:56:16.340Z",
+        "updated_at": "2023-09-06T01:59:09.165Z",
+        "event_id": "7647a98b-6ec4-41fc-8555-4057e2cb9c13",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "6ce354a0-bdc6-403d-9816-9b6857f1207d",
+        "assessment_date": "2023-09-06T00:13:50.049Z",
+        "rating": 32020,
+        "comment": "Great attention to detail",
+        "created_at": "2023-09-06T08:30:38.500Z",
+        "updated_at": "2023-09-06T08:47:23.929Z",
+        "event_id": "81752892-f880-4b1b-8a34-7836868f6a3f",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "689c34bb-a042-49a6-bc59-36064bdd88ba",
+        "assessment_date": "2023-09-05T21:50:59.281Z",
+        "rating": 68350,
+        "comment": "Excellent teamwork",
+        "created_at": "2023-09-06T05:31:47.123Z",
+        "updated_at": "2023-09-06T08:28:44.132Z",
+        "event_id": "81752892-f880-4b1b-8a34-7836868f6a3f",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "bc9b01a1-778b-4a67-bacb-abf603ef09c7",
+        "assessment_date": "2023-09-05T18:24:59.824Z",
+        "rating": 494,
+        "comment": "Strong problem-solving skills",
+        "created_at": "2023-09-06T10:55:40.156Z",
+        "updated_at": "2023-09-05T20:40:38.906Z",
+        "event_id": "7647a98b-6ec4-41fc-8555-4057e2cb9c13",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "50b2e0c1-e7e4-412b-8e58-c151fa469cf9",
+        "assessment_date": "2023-09-06T02:51:04.548Z",
+        "rating": 88136,
+        "comment": "Exceptional communication",
+        "created_at": "2023-09-06T04:05:52.495Z",
+        "updated_at": "2023-09-06T08:05:50.958Z",
+        "event_id": "4a8fa6cd-8ca7-4e55-8661-ea60affb9df6",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3338ffb6-59aa-4f0e-837a-01647e04d877",
+        "email": "Franco.Lehner60@gmail.com",
+        "firstName": "Abdiel",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65888204",
+        "tenantId": null
+      },
+      {
+        "reference": "153dc1e4-9f3e-4f4e-ac52-34613f6bbc0e",
+        "email": "Randi43@hotmail.com",
+        "firstName": "Alexys",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39653573",
+        "tenantId": null
+      },
+      {
+        "reference": "609373f6-cb7e-44ee-b315-7cf9243c6dfa",
+        "email": "Dax49@yahoo.com",
+        "firstName": "Randi",
+        "lastName": "Fadel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1079.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b013983f-7c83-4d65-b81e-0a393b5ac51e",
+        "email": "Kale_Yost17@hotmail.com",
+        "firstName": "Adela",
+        "lastName": "Zemlak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/492.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "62f6418a-49c1-4d86-aa2b-eb31462effee",
+        "email": "Earline.Klocko@yahoo.com",
+        "firstName": "Lacy",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42357131",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "event": [
+      {
+        "id": "326e6be1-3d9c-4c9c-b3ef-49bc5e186d46",
+        "name": "Annual Charity Gala",
+        "date": "2023-09-05T21:58:09.231Z",
+        "location": "New York City",
+        "description": "Join us for an evening of elegance and philanthropy",
+        "created_at": "2023-09-06T06:56:53.639Z",
+        "updated_at": "2023-09-05T20:07:55.153Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "fd57eff9-2ac1-4bb9-8f82-25af248e4e54",
+        "name": "Tech Innovation Summit",
+        "date": "2023-09-05T13:05:34.019Z",
+        "location": "San Francisco",
+        "description": "Explore the latest advancements in AI technology",
+        "created_at": "2023-09-05T19:48:23.904Z",
+        "updated_at": "2023-09-06T00:17:40.359Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "eacfdff3-e7aa-4cd4-87b3-4c0dda2433bc",
+        "name": "Business Leadership Conference",
+        "date": "2023-09-05T21:41:39.846Z",
+        "location": "London",
+        "description": "Connect with industry leaders and gain valuable insights",
+        "created_at": "2023-09-05T16:59:30.905Z",
+        "updated_at": "2023-09-05T14:58:55.633Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "a6040d59-01c5-4dbc-b346-d2a9ee5c6621",
+        "name": "Sustainability Expo",
+        "date": "2023-09-06T01:40:43.264Z",
+        "location": "Tokyo",
+        "description": "Discover sustainable solutions for a greener future",
+        "created_at": "2023-09-05T14:56:03.934Z",
+        "updated_at": "2023-09-05T17:01:33.643Z",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "efa2029c-f2df-4443-97f6-ae6959345b3c",
+        "name": "Medical Symposium",
+        "date": "2023-09-05T13:00:28.702Z",
+        "location": "Sydney",
+        "description": "Learn about the latest medical breakthroughs and best practices",
+        "created_at": "2023-09-05T13:39:07.053Z",
+        "updated_at": "2023-09-05T15:13:06.179Z",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "usage_tracking": [
+      {
+        "id": "eaf709fd-4cec-4607-893b-75f26da1a955",
+        "usage_date": "2023-09-06T12:24:33.964Z",
+        "usage_time": "2023-09-06T02:34:35.621Z",
+        "usage_duration": 36532,
+        "created_at": "2023-09-06T00:31:43.499Z",
+        "updated_at": "2023-09-06T01:00:19.300Z",
+        "event_id": "a6040d59-01c5-4dbc-b346-d2a9ee5c6621",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8856b2b6-82fc-4ecb-ac23-1f3272fe83be",
+        "usage_date": "2023-09-06T11:46:54.475Z",
+        "usage_time": "2023-09-05T21:50:50.441Z",
+        "usage_duration": 10605,
+        "created_at": "2023-09-06T11:15:59.067Z",
+        "updated_at": "2023-09-05T19:57:06.527Z",
+        "event_id": "fd57eff9-2ac1-4bb9-8f82-25af248e4e54",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1a559b0-48d8-439c-9641-80fee7d6c0a8",
+        "usage_date": "2023-09-06T11:19:14.410Z",
+        "usage_time": "2023-09-06T08:12:27.257Z",
+        "usage_duration": 85798,
+        "created_at": "2023-09-05T16:49:36.753Z",
+        "updated_at": "2023-09-06T06:11:50.238Z",
+        "event_id": "a6040d59-01c5-4dbc-b346-d2a9ee5c6621",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7a7fcdb-2a23-42ac-b6df-d26515ac0c90",
+        "usage_date": "2023-09-06T12:03:47.173Z",
+        "usage_time": "2023-09-05T21:35:57.202Z",
+        "usage_duration": 98291,
+        "created_at": "2023-09-06T10:23:09.738Z",
+        "updated_at": "2023-09-06T08:18:57.974Z",
+        "event_id": "fd57eff9-2ac1-4bb9-8f82-25af248e4e54",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "631681f2-b08d-4b99-89fa-4355e8527e5a",
+        "usage_date": "2023-09-06T12:10:14.360Z",
+        "usage_time": "2023-09-06T01:51:32.169Z",
+        "usage_duration": 74053,
+        "created_at": "2023-09-05T19:15:40.834Z",
+        "updated_at": "2023-09-06T01:32:29.083Z",
+        "event_id": "326e6be1-3d9c-4c9c-b3ef-49bc5e186d46",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reservation": [
+      {
+        "id": "f16e9960-abfe-496f-a0a2-684497d18583",
+        "reservation_date": "2023-09-06T01:30:27.578Z",
+        "status": "Confirmed",
+        "number_of_guests": 17442,
+        "created_at": "2023-09-06T05:05:30.477Z",
+        "updated_at": "2023-09-06T11:32:21.637Z",
+        "event_id": "efa2029c-f2df-4443-97f6-ae6959345b3c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9038f31d-534e-4f0b-9817-0d2b6ce87b51",
+        "reservation_date": "2023-09-06T01:12:37.339Z",
+        "status": "Pending",
+        "number_of_guests": 87287,
+        "created_at": "2023-09-05T17:23:21.302Z",
+        "updated_at": "2023-09-06T03:31:18.818Z",
+        "event_id": "a6040d59-01c5-4dbc-b346-d2a9ee5c6621",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b1bec87-1b30-4568-845e-146d04b04c16",
+        "reservation_date": "2023-09-05T21:14:26.085Z",
+        "status": "Cancelled",
+        "number_of_guests": 47800,
+        "created_at": "2023-09-06T00:37:40.701Z",
+        "updated_at": "2023-09-05T23:40:08.428Z",
+        "event_id": "326e6be1-3d9c-4c9c-b3ef-49bc5e186d46",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9381216-9136-4d9b-94eb-db4ecfd944b1",
+        "reservation_date": "2023-09-06T07:26:52.380Z",
+        "status": "Completed",
+        "number_of_guests": 34539,
+        "created_at": "2023-09-06T11:05:01.363Z",
+        "updated_at": "2023-09-05T15:26:33.735Z",
+        "event_id": "fd57eff9-2ac1-4bb9-8f82-25af248e4e54",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5da7028d-19c8-4e3c-a44c-69949cce5617",
+        "reservation_date": "2023-09-05T21:01:20.272Z",
+        "status": "On Hold",
+        "number_of_guests": 65154,
+        "created_at": "2023-09-06T03:26:15.157Z",
+        "updated_at": "2023-09-06T12:09:15.696Z",
+        "event_id": "326e6be1-3d9c-4c9c-b3ef-49bc5e186d46",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_assessment": [
+      {
+        "id": "fcc4a28e-b53c-4b82-993a-1d591b012d69",
+        "assessment_date": "2023-09-06T09:33:18.672Z",
+        "rating": 90340,
+        "comment": "Excellent work! Keep it up.",
+        "created_at": "2023-09-05T14:47:00.764Z",
+        "updated_at": "2023-09-05T17:54:06.073Z",
+        "event_id": "fd57eff9-2ac1-4bb9-8f82-25af248e4e54",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "09c4a608-58dd-4359-986a-31c184871347",
+        "assessment_date": "2023-09-06T08:27:49.563Z",
+        "rating": 97923,
+        "comment": "Great attention to detail.",
+        "created_at": "2023-09-06T06:40:44.893Z",
+        "updated_at": "2023-09-06T06:56:52.869Z",
+        "event_id": "326e6be1-3d9c-4c9c-b3ef-49bc5e186d46",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "6ae3177d-89ef-4387-b5fd-8994417e9841",
+        "assessment_date": "2023-09-06T00:31:41.400Z",
+        "rating": 98066,
+        "comment": "Good job overall.",
+        "created_at": "2023-09-06T11:52:25.140Z",
+        "updated_at": "2023-09-05T19:40:15.549Z",
+        "event_id": "efa2029c-f2df-4443-97f6-ae6959345b3c",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "7feb52c4-9d06-49ab-b5c6-3af5594acb1b",
+        "assessment_date": "2023-09-06T01:43:09.384Z",
+        "rating": 32639,
+        "comment": "Some areas for improvement. Let's discuss.",
+        "created_at": "2023-09-05T13:54:44.565Z",
+        "updated_at": "2023-09-05T13:47:07.360Z",
+        "event_id": "fd57eff9-2ac1-4bb9-8f82-25af248e4e54",
+        "organizer_id": "user_entity_pk"
+      },
+      {
+        "id": "9f0d3f61-2c8a-4ba2-8a16-179610b98e9a",
+        "assessment_date": "2023-09-05T22:02:45.346Z",
+        "rating": 90088,
+        "comment": "Outstanding performance.",
+        "created_at": "2023-09-06T08:21:11.704Z",
+        "updated_at": "2023-09-06T07:59:16.434Z",
+        "event_id": "326e6be1-3d9c-4c9c-b3ef-49bc5e186d46",
+        "organizer_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "48ddd3f2-2137-459a-85ce-22aa2af79559",
+        "email": "Kay_Abernathy-Koch@hotmail.com",
+        "firstName": "Athena",
+        "lastName": "Schuppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12051165",
+        "tenantId": null
+      },
+      {
+        "reference": "cf465846-8f2d-4123-b64b-06dfab2ccf4d",
+        "email": "Jedediah_Abernathy-Kassulke@yahoo.com",
+        "firstName": "Sedrick",
+        "lastName": "Koss",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/634.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0f548ecb-e031-43e4-96ad-d124446f93a1",
+        "email": "Destiney_Schmeler17@gmail.com",
+        "firstName": "Jaida",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32208073",
+        "tenantId": null
+      },
+      {
+        "reference": "329385e0-ff70-4fd2-94ee-9953a00813e4",
+        "email": "Rosendo_Nitzsche29@hotmail.com",
+        "firstName": "Imani",
+        "lastName": "Sanford",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/922.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ba6cb581-557c-42db-bf4d-5180cba94c64",
+        "email": "Alycia72@yahoo.com",
+        "firstName": "Donnie",
+        "lastName": "Lehner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/961.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
